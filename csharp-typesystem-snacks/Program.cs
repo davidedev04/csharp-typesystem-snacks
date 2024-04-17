@@ -128,6 +128,12 @@
             {
                 Console.WriteLine("Il tuo nome non é presente nella lista, ci dispiace!");
             }
+
+            // SETTIMA TASK
+            // ------------
+
+            Console.WriteLine("- SETTIMA TASK -");
+
         }
     }
 }
